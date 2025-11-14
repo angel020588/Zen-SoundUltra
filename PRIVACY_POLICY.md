@@ -1,71 +1,265 @@
-POLÍTICA DE PRIVACIDAD / AVISO DE PRIVACIDAD
-Última actualización: 11 de octubre de 2025
+✅ POLÍTICA DE PRIVACIDAD – Zen Sound Ultra
 
-Optima Purify (en adelante, "El Responsable"), con domicilio en [INSERTAR DIRECCIÓN COMPLETA DE TU NEGOCIO], en cumplimiento con la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP) y su Reglamento, pone a disposición el presente Aviso de Privacidad a los usuarios de su sitio web www.optimapurify.com.
+Última actualización: 13 de noviembre de 2025
 
-1. Datos del Responsable
-Nombre Comercial: Optima Purify
+Bienvenido a Zen Sound Ultra, una aplicación diseñada para ofrecer sonidos relajantes, ambientes sonoros y experiencias auditivas para concentración, sueño y bienestar. Nos tomamos muy en serio tu privacidad.
 
-Sitio Web: www.optimapurify.com
+Esta Política de Privacidad describe cómo manejamos, protegemos y usamos la información dentro de la aplicación.
 
-Correo de Contacto para Privacidad: optimapurify71@gmail.com
+1. Recolección de Información
 
-[OPCIONAL] Teléfono: [INSERTAR TELÉFONO DE CONTACTO]
+Zen Sound Ultra no recopila ningún tipo de información personal del usuario.
 
-2. Datos Personales Recabados
-El Responsable recaba la siguiente información personal necesaria para la comercialización de sus productos:
+Específicamente, NO solicitamos ni recolectamos:
 
-Categoría de Datos	Ejemplos de Datos Recabados
-Datos de Identificación	Nombre completo, dirección de correo electrónico (optimapurify71@gmail.com), número de teléfono.
-Datos de Facturación y Pago	Información de pago (gestionada por plataformas de terceros como Amazon Pay o pasarelas de pago), RFC (si se requiere factura).
-Datos de Envío	Domicilio completo de entrega.
-Datos de Tráfico y Uso	Dirección IP, información del navegador, datos de navegación en la web (www.optimapurify.com), e información de interacciones con publicidad.
+Nombre
 
-Exportar a Hojas de cálculo
-3. Finalidades del Tratamiento de los Datos
-El tratamiento de sus datos personales tiene las siguientes finalidades:
+Dirección de correo electrónico
 
-A. Finalidades Primarias (Necesarias para la prestación del servicio)
-Procesamiento de Pedidos: Gestionar, procesar, enviar y dar seguimiento a su compra de productos de Optima Purify.
+Número de teléfono
 
-Gestión de Pagos: Utilizar su información para el cobro de productos a través de plataformas de pago como Amazon Pay y otras pasarelas de pago.
+Dirección física
 
-Servicio al Cliente: Atender dudas, comentarios, solicitudes de garantía y soporte técnico a través del correo electrónico o teléfono.
+Ubicación GPS
 
-Facturación: Generar la factura correspondiente por la compra, si es solicitada.
+Datos biométricos
 
-B. Finalidades Secundarias (Voluntarias)
-Marketing: Envío de ofertas, promociones y novedades sobre los productos y servicios de Optima Purify.
+Contenido de archivos o fotos
 
-Análisis: Evaluar la calidad de nuestros servicios y realizar estudios sobre hábitos de consumo y la efectividad de la publicidad en el sitio web.
+Información financiera
 
-Nota: Si el usuario no desea que sus datos se utilicen para las finalidades secundarias, puede oponerse en cualquier momento enviando un correo a optimapurify71@gmail.com.
+ID del dispositivo
 
-4. Mecanismos para el Ejercicio de Derechos ARCO
-Usted tiene derecho a Acceder a sus datos personales, a Rectificarlos en caso de ser inexactos o incompletos, a Cancelarlos cuando considere que no se requieren para alguna de las finalidades, o a Oponerse al tratamiento de los mismos (Derechos ARCO).
+Cualquier dato que pueda identificarte
 
-Para ejercer cualquiera de sus Derechos ARCO, deberá enviar una solicitud por escrito al correo electrónico optimapurify71@gmail.com, que deberá contener:
+2. Permisos del Dispositivo
 
-Nombre completo del titular.
+La app no utiliza permisos sensibles como:
 
-Documentos que acrediten la identidad del titular (copia de identificación oficial).
+Cámara
 
-La descripción clara y precisa de los datos personales respecto de los que se busca ejercer alguno de los derechos ARCO.
+Micrófono
 
-Cualquier otro elemento que facilite la localización de los datos personales.
+Ubicación
 
-El Responsable responderá su solicitud en un plazo máximo de 20 días hábiles contados a partir de la fecha de recepción.
+Contactos
 
-5. Transferencia de Datos Personales
-Sus datos personales podrán ser transferidos y tratados dentro y fuera del país, por personas distintas a El Responsable, para los siguientes fines:
+Calendario
 
-Procesadores de Pago: A plataformas como Amazon Pay u otras para procesar los cobros de las compras.
+SMS
 
-Proveedores de Logística: A empresas de paquetería y mensajería para realizar la entrega de los productos.
+Almacenamiento
 
-Autoridades Legales: Cuando sea legalmente requerido por una autoridad competente.
+Bluetooth
 
-En todos los casos no exceptuados por la ley, le solicitaremos su consentimiento para dichas transferencias.
+Sensores del dispositivo
 
-6. Modificaciones al Aviso de Privacidad
-El Responsable se reserva el derecho de efectuar en cualquier momento modificaciones o actualizaciones al presente Aviso de Privacidad. Estas modificaciones estarán disponibles al público a través de la siguiente página de internet: www.optimapurify.com
+La aplicación funciona completamente offline y sin requerir acceso a funciones del sistema.
+
+3. Uso de la Información
+
+Como Zen Sound Ultra no recopila datos, tampoco:
+
+Procesamos información del usuario
+
+Creamos perfiles
+
+Compartimos información con terceros
+
+Ejecutamos análisis de comportamiento
+
+Usamos tecnologías de rastreo
+
+4. Publicidad
+
+Zen Sound Ultra NO incluye anuncios de ningún tipo:
+
+No hay anuncios gráficos
+
+No hay banners
+
+No hay seguimiento externo
+
+No hay redes de publicidad
+
+5. Servicios de terceros
+
+La aplicación no utiliza servicios de terceros, como:
+
+Google Analytics
+
+Firebase
+
+Facebook SDK
+
+Motores de publicidad
+
+Motores de analíticas
+
+Esto garantiza un entorno completamente privado y seguro.
+
+6. Almacenamiento de Datos
+
+Zen Sound Ultra no almacena datos personales en el dispositivo ni en servidores externos.
+
+Los únicos archivos almacenados temporalmente son los necesarios para que la aplicación funcione (por ejemplo, recursos de audio), pero estos no contienen información del usuario.
+
+7. Seguridad
+
+Dado que no se recopilan datos personales, no existe riesgo de acceso no autorizado, filtración o mal uso de información sensible.
+
+8. Privacidad de Niños
+
+Zen Sound Ultra no está dirigida a menores de 13 años.
+Sin embargo, la app no contiene contenido dañino, y no recopila datos, incluso si la usan menores.
+
+9. Cambios en esta Política
+
+Podemos actualizar esta Política de Privacidad ocasionalmente.
+Cualquier cambio se publicará dentro de esta misma URL.
+
+Te recomendamos revisarla periódicamente.
+
+10. Contacto
+
+Si tienes alguna duda sobre esta Política de Privacidad, puedes contactarnos en:
+
+📧 onlytalentmanager1@gmail.com
+
+Responderemos lo antes posible.
+
+✅ PRIVACY POLICY – Zen Sound Ultra
+
+Last updated: November 13, 2025
+
+Welcome to Zen Sound Ultra, an application designed to provide relaxing sounds, ambient audio, and soundscapes for focus, sleep, and overall well-being.
+We take your privacy very seriously.
+
+This Privacy Policy explains how we handle, protect, and use information within the app.
+
+1. Information Collection
+
+Zen Sound Ultra does not collect ANY personal information from users.
+
+Specifically, we DO NOT collect:
+
+Name
+
+Email address
+
+Phone number
+
+Physical address
+
+GPS location
+
+Biometric data
+
+Photos, files, or media
+
+Financial information
+
+Device identifiers
+
+Any data that could personally identify you
+
+2. Device Permissions
+
+The app does NOT request or use sensitive permissions, including:
+
+Camera
+
+Microphone
+
+Location
+
+Contacts
+
+Calendar
+
+SMS
+
+Storage
+
+Bluetooth
+
+Device sensors
+
+Zen Sound Ultra works fully offline and does not require system access.
+
+3. Use of Information
+
+Since the app does not collect any data, we do not:
+
+Process personal information
+
+Create user profiles
+
+Share data with third parties
+
+Track user behavior
+
+Use analytics or data mining tools
+
+4. Advertising
+
+Zen Sound Ultra contains NO ads of any kind:
+
+No banners
+
+No pop-ups
+
+No tailored advertising
+
+No ad tracking
+
+No third-party ad networks
+
+5. Third-Party Services
+
+The application does not use any third-party services, such as:
+
+Google Analytics
+
+Firebase
+
+Facebook SDK
+
+Advertising networks
+
+Analytics platforms
+
+This ensures a fully private and secure environment.
+
+6. Data Storage
+
+Zen Sound Ultra does not store personal information on the device or on external servers.
+
+Any temporary files used by the app (e.g., sound resources) contain no user data.
+
+7. Security
+
+Because no personal information is collected or stored, there is no risk of unauthorized access, misuse, or data exposure.
+
+8. Children’s Privacy
+
+Zen Sound Ultra is not directed at children under the age of 13, but the app:
+
+Contains no harmful content
+
+Collects no personal data, even if used by minors
+
+9. Changes to This Policy
+
+We may update this Privacy Policy from time to time.
+Any changes will be posted at this same link.
+
+We encourage you to review the policy periodically.
+
+10. Contact
+
+If you have any questions regarding this Privacy Policy, you can contact us at:
+
+📧 onlytalentmanager1@gmail.com
+
+We will respond as soon as possible.
